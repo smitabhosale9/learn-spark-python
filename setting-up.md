@@ -69,7 +69,7 @@ If you are on Windows, **rename** `meta_windows_patch.yml` to `meta.yml`.
 
 **Create** `bdap`.  Running this command will create a new `conda` environment that is provisioned with all libraries listed above.
 ```
-conda env create -f environment.yml
+conda env create -f bdap.yml
 ```
 
 
