@@ -12,8 +12,4 @@
     3. 4 images
     4. 4 links to external articles
     5. 3 examples in Python showing Transformations and Actions in action
-5. 
-6. 
-7. 
-8. 
-9. 
+
